@@ -77,21 +77,9 @@ To run this project, you'll need:
 
 ## **Screenshots** 📸
 
-Here are some of the key screenshots from the project:
+I have uploaded **all the screenshots of the complete process steps** in this repository. These include visuals of data ingestion, migration, processing, and visualization.
 
-1. **Power BI Dashboard**  
-   ![Power BI Dashboard](https://github.com/yourusername/yourrepository/blob/main/screenshots/power_bi_dashboard.png)
-
-2. **Azure Databricks Data Processing**  
-   ![Azure Databricks](https://github.com/yourusername/yourrepository/blob/main/screenshots/databricks_processing.png)
-
-*(Replace these URLs with actual image links in your repository)*
-
----
-
-## **License** 📄
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+You can explore the entire journey in the **[Screenshots folder](Screenshots)** of this repository.
 
 ---
 
@@ -99,11 +87,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Feel free to connect with me for collaborations or any questions on data engineering!
 
-- **LinkedIn**: [Your LinkedIn Profile Link]  
-- **Email**: [Your Email]
+- **LinkedIn**: [linkedin.com/in/alkeshlajurkar]  
+- **Email**: [alkeshlajurkar@gmail.com]
 
 ---
 
 ## **GitHub Repository** 💻
 
-Check out the source code and further details in this GitHub repository: [GitHub Repo Link]
+Check out the source code and further details in this GitHub repository: [[GitHub Repo Link](https://github.com/alkeshlajurkar/PizzaSalesAnalysis.git)]
