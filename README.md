@@ -87,7 +87,7 @@ You can explore the entire journey in the **[Screenshots folder](Screenshots)** 
 
 Feel free to connect with me for collaborations or any questions on data engineering!
 
-- **LinkedIn**: [linkedin.com/in/alkeshlajurkar]  
+- **LinkedIn**: [https://www.linkedin.com/in/alkeshlajurkar/]  
 - **Email**: [alkeshlajurkar@gmail.com]
 
 ---
